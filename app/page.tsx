@@ -1,4 +1,4 @@
-import { HeroSection } from '@/components/sections/hero-section';
+simport { HeroSection } from '@/components/sections/hero-section';
 import { FeaturedProducts } from '@/components/sections/featured-products';
 import { CategoriesShowcase } from '@/components/sections/categories-showcase';
 import { NewArrivals } from '@/components/sections/new-arrivals';
